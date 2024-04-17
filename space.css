@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://unpkg.com/css.gg@2.0.0/icons/css/check-o.css');
+
+
+.local-section{
+    
+    display: flex;
+    justify-content: center;
+    z-index: 0;
+    width: 100%;
+    background-color: black;
+}
+
+.container-local{
+    color: white;
+    justify-content: center;
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid white;
+    border-radius: 10px;
+    width: 350px;
+    height: 250px;
+    box-shadow: 0 0 10px;
+   
+}
+
+
+.info1{
+ 
+    width: 80%;
+
+}
+
+
+
+.info2{
+    
+    width: 80%;
+}
