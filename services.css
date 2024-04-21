@@ -148,7 +148,7 @@
 
 
 
-@media screen and (max-width: 1100px) {
+@media screen and (min-width: 0px) and (max-width: 1100px) {
 
     .cuts-section {
 
@@ -194,7 +194,7 @@
 
 }
 
-@media (width < 900px) {
+@media screen and (min-width: 0px) and (max-width : 900px) {
     .img-list {
         width: 350px;
         height: 350px;
@@ -218,7 +218,7 @@
 
 }
 
-@media (width < 780px) {
+@media screen and (min-width: 0px) and (max-width : 780px) {
     header a {
         font-size: 20px;
     }
@@ -259,7 +259,7 @@
 
 
 
-@media (width < 470px) {
+@media screen and (min-width: 0px) and (max-width : 470px) {
     .img-list {
         width: 280px;
         height: 280px;
@@ -280,7 +280,7 @@
 
 }
 
-@media (width < 450px) {
+@media screen and (min-width: 0px) and (max-width : 450px) {
 
     header a {
         font-size: 13px;
@@ -318,7 +318,7 @@
     }
 }
 
-@media (width < 350px) {
+@media screen and (min-width: 0px) and (max-width : 350px) {
     header a {
         font-size: 13px;
     }
